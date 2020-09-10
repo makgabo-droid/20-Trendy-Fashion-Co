@@ -1,4 +1,4 @@
-# 20-Trendy-Fashion-Co
+# 20-Trendy-Fashion
 
 This is an online shopping website created using **HTML**, **CSS** & **JAVASCRIPT**. Online shopping is the most *convenient* and *efficient* way to do your shopping nowadays, unlike ~~traditionally~~ when shopping meant leaving the comfort of your __home__.
 ___
